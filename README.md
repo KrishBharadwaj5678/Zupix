@@ -20,9 +20,14 @@ Zupix is a Python based virtual zoom system that uses hand gestures to zoom in a
 
 ## 🛠️ Tech Stack
 
-- Python 🐍  
-- OpenCV 📷  
-- Mediapipe 🖐️  
+| Technology   | Description                      |
+|--------------|----------------------------------|
+| 🐍 Python     | Core programming language         |
+| 📷 OpenCV     | Image processing and video feed  |
+| 🖐️ Mediapipe  | Hand tracking and gesture detection |
+| 🧩 CvZone     | Simplifies computer vision tasks |
+
+---
 
 ## 🚀 Getting Started
 
@@ -46,8 +51,4 @@ pip install -r requirements.txt
 ```bash
 python zupix.py
 ```
-
-## 🧠 How It Works
-
-Zupix uses **Mediapipe** to detect hand landmarks. When the index finger and thumb tips of both hands are detected, the script calculates the distance between them to determine zoom level. The image scales accordingly, mimicking a real pinch zoom gesture.
 
