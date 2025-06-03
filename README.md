@@ -52,3 +52,39 @@ pip install -r requirements.txt
 python zupix.py
 ```
 
+## 🤝 Contributing
+
+We welcome contributions!
+
+1. **Fork the Repo** 🍴
+
+2. **Clone Your Fork** 📥
+   
+   ```bash
+   git clone https://github.com/your-username/Zupix.git
+   cd Zupix
+   ````
+
+4. **Create a New Branch** 🌱
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+5. **Make Your Changes** 🛠️
+
+6. **Commit Your Changes** 💾
+
+   ```bash
+   git add .
+   git commit -m "Add: Short description of your change"
+   ```
+
+7. **Push to GitHub** 🚀
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+8. **Create a Pull Request** 📬
+    - Go to the original repo and click **"New Pull Request"**. 
