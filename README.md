@@ -2,7 +2,7 @@
 
 Zupix is a Python based virtual zoom system that uses hand gestures to zoom in and out on an image in real time. Show your thumb and index fingers from both hands, and it will respond by zooming the image accordingly. 🖼️
 
-![Zupix Demo]()  
+![Zupix Demo](https://github.com/KrishBharadwaj5678/Zupix/raw/main/ZupixDemo.gif)  
 
 ## ✨ Features
 
