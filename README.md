@@ -87,4 +87,4 @@ We welcome contributions!
    ```
 
 8. **Create a Pull Request** 📬
-    - Go to the original repo and click **"New Pull Request"**. 
+    - Go to the original repo and click **New Pull Request**. 
