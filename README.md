@@ -4,6 +4,8 @@ Zupix is a Python based virtual zoom system that uses hand gestures to zoom in a
 
 ![Zupix Demo](https://github.com/KrishBharadwaj5678/Zupix/raw/main/ZupixDemo.gif)  
 
+---
+
 ## ✨ Features
 
 | Feature                   | Description                              |
@@ -51,6 +53,8 @@ pip install -r requirements.txt
 ```bash
 python zupix.py
 ```
+
+---
 
 ## 🤝 Contributing
 
