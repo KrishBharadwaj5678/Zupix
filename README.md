@@ -1,8 +1,10 @@
-# Zupix 🖐️
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
 
-Zupix is a Python based virtual zoom system that uses hand gestures to zoom in and out on an image in real time. Show your thumb and index fingers from both hands, and it will respond by zooming the image accordingly. 
+# 🖐️ Zupix 
 
-![Zupix Demo](https://github.com/KrishBharadwaj5678/Zupix/raw/main/ZupixDemo.gif)  
+Zupix is a Python based virtual zoom system that uses hand gestures to zoom in and out on an image in real time. 
+
+![ZupixDemo](https://github.com/KrishBharadwaj5678/Zupix/raw/main/ZupixDemo.gif)  
 
 ## ✨ Features
 
@@ -29,37 +31,29 @@ Zupix is a Python based virtual zoom system that uses hand gestures to zoom in a
 
 ---
 
-## 🚀 Getting Started
+## 📦 Installation
 
-### 1. Clone the repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/Zupix.git
-cd Zupix
 ````
 
-### 2. Install dependencies
+### 2️⃣ Navigate to the Folder
 
-Make sure you have Python 3.7+ installed. Then install required packages:
+```bash
+cd Zupix
+```
+
+### 3️⃣ Install the Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the script
+### 4️⃣ Run the app
 
 ```bash
-python zupix.py
+python app.py
 ```
 
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
